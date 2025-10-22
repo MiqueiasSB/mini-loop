@@ -1,0 +1,8 @@
+{
+  "name": "MiniLoop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ff1a8f96"
+}
