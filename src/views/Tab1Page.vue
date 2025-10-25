@@ -12,7 +12,11 @@
         </ion-toolbar>
       </ion-header>
 
-      <ExploreContainer name="Tab 1 page" />
+      <ExploreContainer name="Tab kkkk" />
+      <ion-button color="primary">Salvar</ion-button>
+      <ion-button color="danger">Deletar</ion-button>
+
+      <h1>Titulo</h1>
     </ion-content>
   </ion-page>
 </template>
